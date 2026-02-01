@@ -13,7 +13,7 @@ Backend server for AI Tutor functionality using OpenAI API.
    - Build Command: `npm install`
    - Start Command: `npm start`
 6. Add Environment Variables:
-   - `OPENAI_API_KEY`: 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
+   - `OPENAI_API_KEY`: Your OpenAI Api
    - `ALLOWED_ORIGINS`: `https://barbarapdfeditor.net,https://vitesite-4.sg-host.com`
 7. Click "Create Web Service"
 
